@@ -7,7 +7,7 @@
 <br>
 <hr>
 <br><b>Register Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/224485926-125bc196-4c01-40bf-b12e-3b46c83d9fc5.png" width="350" height="800" />
+<img src="" width="350" height="800" />
 <br>
 <hr>
 <b>Messages Screen:<br></b>
