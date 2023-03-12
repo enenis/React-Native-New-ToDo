@@ -3,7 +3,7 @@
 <hr>
 <b>Detailed Photos;</b><br>
 <br><b>Login Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/224485866-5ccb8ed3-2699-426c-9c23-a736c0674fdc.png" width="350" height="800" />
+<img src="" width="350" height="800" />
 <br>
 <hr>
 <br><b>Register Screen:<br></b>
