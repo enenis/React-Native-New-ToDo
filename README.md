@@ -15,7 +15,7 @@
 <br>
 <hr>
 <b>Message Send Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/224485995-d15ba324-c8d6-4b3d-89d9-937c01b7130b.png" width="350" height="800" />
+<img src="" width="350" height="800" />
 <br>
 
 <small>Thank you so much for reading and reviewing this far.</small><br>
