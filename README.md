@@ -23,7 +23,3 @@
 enenissoftware
 <hr>
 
-![Screenshot_1678701914]()
-![Screenshot_1678701918]()
-![Screenshot_1678701956]()
-![Screenshot_1678701964]()
