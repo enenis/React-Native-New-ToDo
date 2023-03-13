@@ -7,7 +7,7 @@
 <br>
 <hr>
 <br><b>Register Screen:<br></b>
-<img src="" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/224670472-7657c7fe-e207-40a9-948a-232642ce19a1.png" width="350" height="800" />
 <br>
 <hr>
 <b>Messages Screen:<br></b>
@@ -24,3 +24,4 @@ enenissoftware
 <hr>
 
 ![Screenshot_1678701914]()
+![Screenshot_1678701918]()
