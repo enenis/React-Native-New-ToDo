@@ -10,11 +10,11 @@
 <img src="https://user-images.githubusercontent.com/99321522/224670472-7657c7fe-e207-40a9-948a-232642ce19a1.png" width="350" height="800" />
 <br>
 <hr>
-<b>Messages Screen:<br></b>
+<b>Message Send Screen:<br></b>
 <img src="" width="350" height="800" />
 <br>
 <hr>
-<b>Message Send Screen:<br></b>
+<b>Message Screen:<br></b>
 <img src="" width="350" height="800" />
 <br>
 
